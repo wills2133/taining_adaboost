@@ -1,16 +1,16 @@
 # taining_adaboost
 taining hog-adaboost with opencv
 
-##Collect sapmles
+## Collect sapmles
 
 positive sample
 
 negative sample
 
-##How to use
+## How to use
 
 
 
-##Requirement 
+## Requirement 
 
 opencv
