@@ -15,8 +15,7 @@ rectangule pictures with any object in any size
 
 1. modify '### parameter ###' in train.bash
 
-'''
-
+```
 ######### set parameters ##########
 
 posW="36"
@@ -24,14 +23,13 @@ posW="36"
 posH="36"
 
 posNum="799"
-
-'''
+```
 
 2. run train.sh
 
-'''
+```
 ~$ bash train.sh
-'''
+```
 
 you may need to authorize to train.sh by 'chomd +x'
 
