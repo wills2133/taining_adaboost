@@ -6,10 +6,14 @@ taining hog-adaboost with opencv
 ### positive sample
 
 square pictures with object in same size(like 32x32)
+>![image](https://raw.githubusercontent.com/wills2133/taining_adaboost/master/posdata/(14).bmp)
+![image](https://raw.githubusercontent.com/wills2133/taining_adaboost/master/posdata/(22).bmp)
+![image](https://raw.githubusercontent.com/wills2133/taining_adaboost/master/posdata/(31).bmp)
 
 ### negative sample
 
 rectangule pictures with any object in any size
+
 
 ## How to use
 
