@@ -13,7 +13,8 @@ square pictures with object in same size(like 32x32)
 ### negative sample
 
 rectangule pictures with any object in any size
-
+>![image](https://raw.githubusercontent.com/wills2133/taining_adaboost/master/(310).bmp)
+![image](https://raw.githubusercontent.com/wills2133/taining_adaboost/master/(311).bmp)
 
 ## How to use
 
